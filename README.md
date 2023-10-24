@@ -8,7 +8,7 @@ A React Native APP which counts the click on button. .
 
 
 # Screenshot
-![Screenshot 2023-07-20 012734](https://github.com/TheHimanshuDixit/CounterApp/assets/107857348/f892c978-30ce-4a2d-ae22-72fbaf285eac)
+![Screenshot 2023-07-20 012734](https://github.com/TheHimanshuDixit/CounterApp/assets/107857348/528ddd6a-3e83-4868-9322-3c7f0314a542)
 
 
 
